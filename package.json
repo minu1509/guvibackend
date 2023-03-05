@@ -1,0 +1,19 @@
+{
+  "name": "login_demo",
+  "version": "1.0.0",
+  "description": "login page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-and-time": "^2.4.2",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0"
+  }
+}
